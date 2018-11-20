@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Buttons</string>
+    <string name="tap_message">Button %1$s was tapped</string>
+    <string name="ok">OK</string>
+    <string name="blue_button_text">blue</string>
+    <string name="green_button_text">green</string>
+    <string name="red_button_text">red</string>
+</resources>
